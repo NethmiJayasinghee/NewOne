@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86fb76a7-fe54-41ea-9015-035fcb5ee69d" name="Changes" comment="create ItemController and using @Request Mapping">
+    <list default="true" id="86fb76a7-fe54-41ea-9015-035fcb5ee69d" name="Changes" comment="include springDoc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/nethmi/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/nethmi/controller/CustomerController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1762212115039</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="include springDoc">
+      <option name="closed" value="true" />
+      <created>1762212604377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762212604377</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create CustomerController" />
     <MESSAGE value="create ItemController and using @Request Mapping" />
-    <option name="LAST_COMMIT_MESSAGE" value="create ItemController and using @Request Mapping" />
+    <MESSAGE value="include springDoc" />
+    <option name="LAST_COMMIT_MESSAGE" value="include springDoc" />
   </component>
 </project>
