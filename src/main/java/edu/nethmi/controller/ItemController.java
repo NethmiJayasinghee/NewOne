@@ -5,16 +5,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/customer")
-public class CustomerController {
-
+@RequestMapping("/item")
+public class ItemController {
     @GetMapping("/name")
     public String getName(){
-        return "Nethmi";
-    }
-
-    @GetMapping("/age")
-    public Integer getAge(){
-        return 18;
+        return "Mobile";
     }
 }
